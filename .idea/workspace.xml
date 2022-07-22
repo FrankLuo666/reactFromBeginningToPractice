@@ -2,30 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d16b038-cce6-45af-92dc-46257ad87694" name="Changes" comment="react setState同步和异步">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/reactFromBeginningToPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/React.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/ComponentLife.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/MyNav.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/StateComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/app.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/setStateDemo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/React.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/ComponentLife.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/MyNav.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/StateComponent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src/setStateDemo.jsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +53,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/4.React-Router路由配置/react-router-demo/src/pages" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4.React-Router路由配置/react-router-demo/src/pages" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/1.React基础知识/React-Demo/react-demo/src" />
     </key>
@@ -82,8 +79,17 @@
       <updated>1658325258039</updated>
       <workItem from="1658325259677" duration="444000" />
       <workItem from="1658326051429" duration="1272000" />
-      <workItem from="1658377559907" duration="10139000" />
+      <workItem from="1658377559907" duration="10476000" />
+      <workItem from="1658452022329" duration="12322000" />
     </task>
+    <task id="LOCAL-00001" summary="react setState同步和异步">
+      <created>1658394151585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658394151585</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +105,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
